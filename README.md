@@ -1,3 +1,2 @@
-USER HAS BEEN: Retired
-
-Reason: B\*tch can't code shit.
+USER HAS BEEN: Reassigned to "J-Lang development"
+State: active
